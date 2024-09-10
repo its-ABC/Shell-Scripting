@@ -30,7 +30,4 @@ execute_next_commands() {
     echo "Task completed!"
 }
 
-# Main script execution
-show_logs            # Display logs using the 'last' command
-confirm_logs         # Prompt user for confirmation
-execute_next_commands # Execute the next commands only if logs are confirmed
+
