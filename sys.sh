@@ -64,8 +64,7 @@ list_updates() {
 # tasks all together get executed
 execute_all() { 
 
-    # i just added this to find the time taken for it to complete this process. (^_^)
-    # starting the count of seconds to complete the task
+    
      
 
      echo "Executing all tasks..."
